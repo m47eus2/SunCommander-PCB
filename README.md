@@ -1,6 +1,6 @@
 # SunCommander-PCB
 
-PCB boards for energy optimalization device. Contactors control for power switching with full optical isolation. Multiple current measurments made with current transformers. Optimalization algorithm.  
+PCB boards for energy optimalization device. Contactors control for power switching with full optical isolation. Multiple current measurments made with current transformers.
 
 ![Relay Module PCB](docs/SunCommander-RelayModule-render.png)
 ![Sensors Module PCB](docs/Suncommander-SensorsModule-render.png)
